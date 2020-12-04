@@ -1,0 +1,6 @@
+secrets
+bottoken
+telegrambotkey
+data/
+
+.vscode-upload.json
